@@ -28,6 +28,6 @@ public class App {
 	static void output(String outputStr){
 		System.out.println(outputStr);
 	}
-	
+	//hier überladen Methode einfügen
 	
 } // EoC
